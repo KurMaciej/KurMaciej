@@ -6,7 +6,7 @@ I'm a physics student with passion for programming. Welcome to my GitHub profile
 
 If you'd like to connect with me or have any questions, feel free to reach out through the following channels:
 
-- **LinkedIn:** [Connect with me on LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/maciej-kurowski-581b26273/))
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/maciej-kurowski-581b26273/)
 - **Email:** [Send me an email](mailto:kurowskimaciej11@gmail.com)
 
 I'm always open to new collaborations, discussions, and opportunities, so don't hesitate to drop me a message.
