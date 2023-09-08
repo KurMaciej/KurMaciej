@@ -1,4 +1,18 @@
- Hi, I’m Maciej and I am Physics student with passion for programming. 
-How can you reach me:
--LinkedIn: https://www.linkedin.com/in/maciej-kurowski-581b26273/
--E-mail: kurowskimaciej11@gmail.com
+# Hi, I'm Maciej 👋
+
+I'm a physics student with passion for programming. Welcome to my GitHub profile! Here, you'll find some of my projects, code, and contributions related to my journey in the world of physics and beyond.
+
+## 📬 Get in Touch
+
+If you'd like to connect with me or have any questions, feel free to reach out through the following channels:
+
+- **LinkedIn:** [Connect with me on LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/maciej-kurowski-581b26273/))
+- **Email:** [Send me an email](mailto:kurowskimaciej11@gmail.com)
+
+I'm always open to new collaborations, discussions, and opportunities, so don't hesitate to drop me a message.
+
+## 🌟 Projects and Contributions
+
+While you're here, feel free to explore my repositories to see what I've been working on. If you find anything interesting or have suggestions, I'd love to hear from you.
+
+Thanks for visiting, and I look forward to connecting with you!
