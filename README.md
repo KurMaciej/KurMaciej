@@ -1,6 +1,6 @@
 # Hi, I'm Maciej 👋
 
-I'm a physics student with passion for programming. Welcome to my GitHub profile! Here, you'll find some of my projects, code, and contributions related to my journey in the world of physics and beyond.
+I'm a recent physics graduate with passion for programming. Welcome to my GitHub profile! Here, you'll find some of my projects, code, and contributions related to my journey in the world of physics and beyond.
 
 ## 📬 Get in Touch
 
